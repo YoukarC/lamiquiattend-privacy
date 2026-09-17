@@ -7,6 +7,8 @@ title: Politique de confidentialite - L'Ami qui Attend
 **Dernière mise à jour : 17 septembre 2026**
 **Éditeur : Youkar.** Contact : YoukarC@hotmail.com
 
+*English version: [Privacy Policy](en)*
+
 > Ce texte décrit fidèlement ce que fait l'application. Ce n'est pas un avis
 > juridique.
 
@@ -34,7 +36,9 @@ jeu produit le même effet sans désinstaller.
 
 **Rien.** L'application ne demande pas la permission d'accéder à Internet :
 elle ne peut techniquement envoyer aucune donnée où que ce soit, à aucun
-service, à aucun moment.
+service, à aucun moment. La sauvegarde automatique d'Android est désactivée :
+les données du jeu ne sont copiées ni dans votre compte Google, ni vers un
+autre téléphone.
 
 ## Publicité
 
@@ -53,8 +57,8 @@ l'éditeur ne voit et ne reçoit aucune donnée bancaire ou de paiement.
   la cloche de l'écran principal.
 - **Démarrage de l'appareil** — reprogrammer une notification déjà acceptée
   après un redémarrage du téléphone ; sans cela, elle disparaîtrait.
-- **Vibration** — le retour tactile des notifications et de certains gestes
-  dans le jeu.
+- **Vibration** — autorisation ajoutée par la bibliothèque de notifications ;
+  les notifications du jeu ne vibrent pas.
 
 L'Ami qui Attend ne demande **aucun accès** à votre position, vos contacts,
 vos photos, votre caméra, votre micro, votre calendrier ou la liste de vos
@@ -92,6 +96,9 @@ l'application, sans nous écrire et sans délai :
   que le jeu a enregistré de vos visites et de vos gestes.
 - **Effacement** : la réinitialisation dans les réglages du jeu, ou la
   désinstallation, supprime l'intégralité des données.
+- **Rectification et portabilité** : le jeu ne permet ni de modifier ni
+  d'exporter ses journaux, et comme nous n'en détenons aucune copie, nous ne
+  pouvons pas le faire à votre place.
 
 Nous ne détenons aucune copie de vos données : nous ne pourrions ni vous les
 communiquer, ni les supprimer à votre place, faute de les avoir.
