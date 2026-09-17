@@ -7,6 +7,8 @@ title: Privacy Policy - The Waiting Friend
 **Last updated: September 17, 2026**
 **Publisher: Youkar.** Contact: YoukarC@hotmail.com
 
+*Version française : [Politique de confidentialité](./)*
+
 > This text accurately describes what the app does. It is not legal advice.
 
 ## In one sentence
@@ -31,6 +33,8 @@ permanently; an in-game reset has the same effect without uninstalling.
 
 **Nothing.** The app does not request internet access permission: it is
 technically unable to send any data anywhere, to any service, at any time.
+Android's automatic backup is turned off: game data is copied neither to
+your Google account nor to another phone.
 
 ## Advertising
 
@@ -49,8 +53,8 @@ sees or receives any billing or payment data.
   from the bell on the main screen.
 - **Boot** — reschedule an already-accepted notification after the phone
   restarts; without it, the notification would be lost.
-- **Vibration** — haptic feedback for notifications and some in-game
-  gestures.
+- **Vibration** — added by the notification library; the game's
+  notifications do not vibrate.
 
 The Waiting Friend requests **no access** to your location, contacts,
 photos, camera, microphone, calendar, or the list of apps on your phone.
@@ -85,6 +89,9 @@ with no need to write to us and no delay:
   game has recorded of your visits and gestures.
 - **Erasure**: the reset option in the game's settings, or uninstalling the
   app, deletes all data.
+- **Rectification and portability**: the game offers no way to edit or
+  export its records, and since we hold no copy of them, we cannot do it on
+  your behalf.
 
 We hold no copy of your data: we could neither send it to you nor delete it
 on your behalf, since we never have it.
